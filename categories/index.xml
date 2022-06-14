@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on aigconsulting</title>
-    <link>http://www.aigconsulting.it/categories/</link>
+    <link>https://aigconsulting.github.io/public/categories/</link>
     <description>Recent content in Categories on aigconsulting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language><atom:link href="http://www.aigconsulting.it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-IT</language><atom:link href="https://aigconsulting.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

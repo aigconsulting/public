@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on aigconsulting</title>
-    <link>http://www.aigconsulting.it/posts/</link>
+    <link>https://aigconsulting.github.io/public/posts/</link>
     <description>Recent content in Posts on aigconsulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 14 Jun 2022 11:55:20 +0200</lastBuildDate><atom:link href="http://www.aigconsulting.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 11:55:20 +0200</lastBuildDate><atom:link href="https://aigconsulting.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chi Siamo</title>
-      <link>http://www.aigconsulting.it/posts/chi-siamo/</link>
+      <link>https://aigconsulting.github.io/public/posts/chi-siamo/</link>
       <pubDate>Tue, 14 Jun 2022 11:55:20 +0200</pubDate>
       
-      <guid>http://www.aigconsulting.it/posts/chi-siamo/</guid>
+      <guid>https://aigconsulting.github.io/public/posts/chi-siamo/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.aigconsulting.it/</loc>
+    <loc>https://aigconsulting.github.io/public/</loc>
     <lastmod>2022-06-14T11:55:20+02:00</lastmod>
   </url><url>
-    <loc>http://www.aigconsulting.it/posts/chi-siamo/</loc>
+    <loc>https://aigconsulting.github.io/public/posts/chi-siamo/</loc>
     <lastmod>2022-06-14T11:55:20+02:00</lastmod>
   </url><url>
-    <loc>http://www.aigconsulting.it/posts/</loc>
+    <loc>https://aigconsulting.github.io/public/posts/</loc>
     <lastmod>2022-06-14T11:55:20+02:00</lastmod>
   </url><url>
-    <loc>http://www.aigconsulting.it/categories/</loc>
+    <loc>https://aigconsulting.github.io/public/categories/</loc>
   </url><url>
-    <loc>http://www.aigconsulting.it/tags/</loc>
+    <loc>https://aigconsulting.github.io/public/tags/</loc>
   </url>
 </urlset>
